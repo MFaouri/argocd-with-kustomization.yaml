@@ -4,4 +4,3 @@ namespace: other
 resources:
 - namespace.yaml
 - configMap.yaml
-- alb.yaml
