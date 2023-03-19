@@ -176,7 +176,7 @@ metadata:
 apiVersion: v1
 data:
   DB_ENDPOINT: catalog-mysql:3306
-  DB_NAME: catalog?timeout=15s
+  DB_NAME: catalog?timeout=200s
   DB_READ_ENDPOINT: catalog-mysql:3306
 kind: ConfigMap
 metadata:
